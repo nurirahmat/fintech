@@ -1,0 +1,9 @@
+DOKUMENTASI
+------------
+
+REQUIREMENT :
+- PHP Version 7.3 or higher
+
+URL :
+http://localhost/fintag/login
+
